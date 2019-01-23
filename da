@@ -1,0 +1,30 @@
+[33mcommit 10008c9364aa3cd3e7830321998b6401aad1e887[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 887efc9 83d08a8
+Author: AiSuren <764997642@qq.com>
+Date:   Wed Jan 23 18:51:10 2019 +0800
+
+    confict fixed
+
+[33mcommit 887efc982b03d6208bdffbbeddee7791ad2e1377[m
+Author: AiSuren <764997642@qq.com>
+Date:   Wed Jan 23 18:39:28 2019 +0800
+
+    @ simple
+
+[33mcommit 83d08a8dad876bdf1fd614c70d135c9b237b1f0b[m[33m ([m[1;32mfeature1[m[33m)[m
+Author: AiSuren <764997642@qq.com>
+Date:   Wed Jan 23 18:37:46 2019 +0800
+
+    AND simple
+
+[33mcommit 3463816db664159274702c766e1552520d88c00c[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: AiSuren <764997642@qq.com>
+Date:   Wed Jan 23 18:29:32 2019 +0800
+
+    branch ceshi
+
+[33mcommit 2f4751c28210ee6602e0d5acf9edca40c094c31c[m
+Author: AiSuren <43858181+AiSuren@users.noreply.github.com>
+Date:   Wed Jan 23 17:16:14 2019 +0800
+
+    Initial commit
