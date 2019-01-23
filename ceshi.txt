@@ -3,5 +3,5 @@ Create a new branch is quick and simple
 =======
 Create a new branch is quick and simple
 dev
-Git is a free a software
+Git is a free  software
 >>>>>>> feature1
